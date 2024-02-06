@@ -19,6 +19,11 @@ A passionate Enterprise Architect. Digital Transformation. Handling data is my a
 
 ## Skills:
 
+#### Enterprise Architecture Framework:
+
+![TOGAF](https://img.shields.io/badge/togaf-00843d?style=for-the-badge&logo=togaf&logoColor=white)&nbsp;
+![Zackman](https://img.shields.io/badge/zackman-7c878e?style=for-the-badge&logo=zackman&logoColor=white)&nbsp;
+
 #### Languages:
 
 ![Scala](https://img.shields.io/badge/Scala-ED8B00?style=for-the-badge&logo=scala&logoColor=white)&nbsp;
