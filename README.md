@@ -62,8 +62,12 @@ A passionate Enterprise Architect. Digital Transformation. Handling data is my a
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/sabarinath_velayudham/)
 </p>
 
-| <a href="https://github.com/sabarinathv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sabarinathv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sabarinath Velayudham's github stats" /></a> | <a href="https://github.com/sabarinathv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathv&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+![](https://github-readme-stats.vercel.app/api?username=sabarinathv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sabarinathv&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!--  | <a href="https://github.com/sabarinathv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sabarinathv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sabarinath Velayudham's github stats" /></a> | <a href="https://github.com/sabarinathv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathv&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | -->
 
 <!-- 
 ----
