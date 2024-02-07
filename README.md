@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sabarinathv&label=Profile%20Views&color=0e75b6&style=flat" alt="sabarinathv" /> </p>
+
 ### Hello, I'm [Sabarinath Velayudham](https://github.com/sabarinathv) 👋
 
 A passionate Enterprise Architect. Digital Transformation. Handling data is my asset and strength.
