@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sabarinathv&label=Profile%20Views&color=0e75b6&style=flat" alt="sabarinathv" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sabarinathv&label=Profile%20Views&color=0eb6a3&style=flat" alt="sabarinathv" /> </p>
 
 ### Hello, I'm [Sabarinath Velayudham](https://github.com/sabarinathv) 👋
 
